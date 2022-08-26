@@ -17,5 +17,5 @@
  - In cloned repository folder run ***cargo run***
  - Test endpoints in your browser or Postman / Insomia
 
-*If somethnik goes wrong make sure You have installed Rust on your PC and environment path are included*
+*If somethnik goes wrong make sure You have installed Rust on your PC and environment path are included*  
 [Link to official instalation guide](https://www.rust-lang.org/tools/install)
